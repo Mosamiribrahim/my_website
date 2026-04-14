@@ -1,28 +1,28 @@
 body {
     font-family: Arial;
     margin: 0;
-    background: #dddada;
+    background: #e47916;
 }
 
 header {
-    background: #e6e4e4;
-    color: #1808af;
+    background: #e47916;
+    color: #1b0d08;
     padding: 15px;
     text-align: center;
 }
 
 nav a {
-    color: rgb(29, 14, 165);
+    color: rgb(14, 10, 7);
     margin: 10px;
     text-decoration: none;
 }
 
 nav a:hover {
-    color: yellow;
+    color: rgb(247, 245, 244);
 }
 
 section {
-    background: white;
+    background: rgb(248, 252, 248);
     margin: 20px;
     padding: 20px;
 }
@@ -33,7 +33,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid rgb(42, 14, 168);
+    border: 1px solid rgb(241, 167, 7);
 }
 
 th, td {
@@ -54,19 +54,19 @@ input, textarea {
 }
 
 button {
-    background: #60a5b1;
+    background: #03090a;
     color: rgb(87, 36, 36);
     padding: 10px;
     border: none;
 }
 
 button:hover {
-    background: #221a4e;
+    background: #f18d0a;
 }
 
 footer {
     text-align: center;
-    background: #2508a5;
-    color: white;
+    background: #050300;
+    color: rgb(214, 96, 18);
     padding: 10px;
 }
