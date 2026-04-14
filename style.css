@@ -54,7 +54,7 @@ input, textarea {
 }
 
 button {
-    background: #050b0c;
+    background: #60a5b1;
     color: rgb(87, 36, 36);
     padding: 10px;
     border: none;
@@ -66,7 +66,7 @@ button:hover {
 
 footer {
     text-align: center;
-    background: #10639b;
+    background: #2508a5;
     color: white;
     padding: 10px;
 }
